@@ -18,6 +18,8 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
+*.slnx
 
+.vscode/
 .DS_Store
 Thumbs.db
